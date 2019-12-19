@@ -11,7 +11,7 @@ This is training guide for deploying java application to Openshift using s2i (so
 ### Prerequisite
  1. Download oc tools (windows)
     * https://github.com/openshift/origin/releases/download/v3.11.0/openshift-origin-client-tools-v3.11.0-0cbc58b-windows.zip
-    Maven installation on local machine
+    * Maven installation on local machine
  2. Login to Openshift via Console
     * ``` oc login $OCP_MASTER_URL```
  3. Create new project (if needed)
